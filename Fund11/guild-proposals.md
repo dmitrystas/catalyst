@@ -39,3 +39,15 @@
   Applicant: [Dan Gonzalez](https://cardano.ideascale.com/c/profile/190528) (sundae.fi)  
   Requested funds: **₳100,000.00**  
   Links: [Ideascale](https://cardano.ideascale.com/c/idea/113760), [Lidonation](https://www.lidonation.com/en/proposals/sundae-labs-comprehensive-specification-development-for-gummiworm-protocol-on-cardano-f11)
+
+* #### [nftcdn.io] Universal NFT Viewer API (Music+Video+Web+3D+…)
+  Category: Product  
+  Applicant: [Smaug](https://cardano.ideascale.com/c/profile/129977) (pool.pm)  
+  Requested funds: **₳299,999.00**  
+  Links: [Ideascale](https://cardano.ideascale.com/c/idea/114428), [Lidonation](https://www.lidonation.com/en/proposals/nftcdnio-universal-nft-viewer-api-musicvideoweb3d-f11)
+  
+* #### [nftcdn.io] NSFW NFT Detection for Marketplaces, Wallets & Explorers
+  Category: Product  
+  Applicant: [Smaug](https://cardano.ideascale.com/c/profile/129977) (pool.pm)  
+  Requested funds: **₳149,999.00**  
+  Links: [Ideascale](https://cardano.ideascale.com/c/idea/114408), [Lidonation](https://www.lidonation.com/en/proposals/nftcdnio-nsfw-nft-detection-for-marketplaces-wallets-explorers-f11)
