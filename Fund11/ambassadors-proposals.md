@@ -51,3 +51,9 @@
   Applicant: [Mohammed Mustapha Yakubu](https://cardano.ideascale.com/c/profile/169085)   
   Requested funds: **₳50,000.00**  
   Links: [Ideascale](https://cardano.ideascale.com/c/idea/113834), [Lidonation](https://www.lidonation.com/en/proposals/cardano-project-catalyst-for-ghanaian-tech-hubs-f11)
+  
+* #### Expanding Cardano's Presence: Fostering Growth within the Chilean Community
+  Category: Ecosystem  
+  Applicant: [rodrigo oyarzun](https://cardano.ideascale.com/c/profile/132117)   
+  Requested funds: **₳50,000.00**  
+  Links: [Ideascale](https://cardano.ideascale.com/c/idea/113970), [Lidonation](https://www.lidonation.com/en/proposals/expanding-cardanos-presence-fostering-growth-within-the-chilean-community-f11)
