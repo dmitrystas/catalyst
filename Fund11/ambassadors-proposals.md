@@ -40,3 +40,14 @@
   Requested funds: **₳93,750.00**  
   Links: [Ideascale](https://cardano.ideascale.com/c/idea/114503), [Lidonation](https://www.lidonation.com/en/proposals/investada-bridging-investors-and-cardano-innovators-f11)
   
+* #### Sustaining the Impact of the Cardano Ghana Community
+  Category: Ecosystem  
+  Applicant: [Mohammed Mustapha Yakubu](https://cardano.ideascale.com/c/profile/169085)   
+  Requested funds: **₳50,000.00**  
+  Links: [Ideascale](https://cardano.ideascale.com/c/idea/112090), [Lidonation](https://www.lidonation.com/en/proposals/sustaining-the-impact-of-the-cardano-ghana-community-f11)
+
+* #### Cardano Project Catalyst for Ghanaian Tech Hubs
+  Category: Ecosystem  
+  Applicant: [Mohammed Mustapha Yakubu](https://cardano.ideascale.com/c/profile/169085)   
+  Requested funds: **₳50,000.00**  
+  Links: [Ideascale](https://cardano.ideascale.com/c/idea/113834), [Lidonation](https://www.lidonation.com/en/proposals/cardano-project-catalyst-for-ghanaian-tech-hubs-f11)
