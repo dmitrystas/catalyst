@@ -57,3 +57,9 @@
   Applicant: [rodrigo oyarzun](https://cardano.ideascale.com/c/profile/132117)   
   Requested funds: **₳50,000.00**  
   Links: [Ideascale](https://cardano.ideascale.com/c/idea/113970), [Lidonation](https://www.lidonation.com/en/proposals/expanding-cardanos-presence-fostering-growth-within-the-chilean-community-f11)
+  
+* #### Cardano Middle East & North Africa
+  Category: Ecosystem  
+  Applicant: [ramihanania](https://cardano.ideascale.com/c/profile/178094)   
+  Requested funds: **₳15,000.00**  
+  Links: [Ideascale](https://cardano.ideascale.com/c/idea/111583), [Lidonation](https://www.lidonation.com/en/proposals/cardano-middle-east-north-africa-f11)
