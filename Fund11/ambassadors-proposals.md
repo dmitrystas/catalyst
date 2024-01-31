@@ -63,3 +63,9 @@
   Applicant: [ramihanania](https://cardano.ideascale.com/c/profile/178094)   
   Requested funds: **₳15,000.00**  
   Links: [Ideascale](https://cardano.ideascale.com/c/idea/111583), [Lidonation](https://www.lidonation.com/en/proposals/cardano-middle-east-north-africa-f11)
+    
+* #### Cardano in Spanish 2
+  Category: Ecosystem  
+  Applicant: [Seba](https://cardano.ideascale.com/c/profile/128062)   
+  Requested funds: **₳15,000.00**  
+  Links: [Ideascale](https://cardano.ideascale.com/c/idea/110403), [Lidonation](https://www.lidonation.com/en/proposals/cardano-in-spanish-2-f11)
