@@ -69,3 +69,16 @@
   Applicant: [Seba](https://cardano.ideascale.com/c/profile/128062)   
   Requested funds: **₳15,000.00**  
   Links: [Ideascale](https://cardano.ideascale.com/c/idea/110403), [Lidonation](https://www.lidonation.com/en/proposals/cardano-in-spanish-2-f11)
+    
+* #### Cardano Solution Architects Training Initiative
+  Category: Ecosystem  
+  Applicant: [Catalyst Africa Town Hall](https://cardano.ideascale.com/c/profile/189970)   
+  Requested funds: **₳80,000.00**  
+  Links: [Ideascale](https://cardano.ideascale.com/c/idea/113743), [Lidonation](https://www.lidonation.com/en/proposals/cardano-solution-architects-training-initiative-f11)
+    
+* #### Cardano-Powered Research Odyssey in Africa
+  Category: Ecosystem  
+  Applicant: [Catalyst Africa Town Hall](https://cardano.ideascale.com/c/profile/189970)   
+  Requested funds: **₳79,000.00**  
+  Links: [Ideascale](https://cardano.ideascale.com/c/idea/113695), [Lidonation](https://www.lidonation.com/en/proposals/cardano-powered-research-odyssey-in-africa-f11)
+  
