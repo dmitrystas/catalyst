@@ -81,4 +81,9 @@
   Applicant: [Catalyst Africa Town Hall](https://cardano.ideascale.com/c/profile/189970)   
   Requested funds: **₳79,000.00**  
   Links: [Ideascale](https://cardano.ideascale.com/c/idea/113695), [Lidonation](https://www.lidonation.com/en/proposals/cardano-powered-research-odyssey-in-africa-f11)
-  
+    
+* #### Cardano Summit 2025. Welcome to Africa :)
+  Category: Ecosystem  
+  Applicant: [Catalyst Africa Town Hall](https://cardano.ideascale.com/c/profile/189970)   
+  Requested funds: **₳156,250.00**  
+  Links: [Ideascale](https://cardano.ideascale.com/c/idea/110763), [Lidonation](https://www.lidonation.com/en/proposals/cardano-summit-2025-welcome-to-africa-f11)  
